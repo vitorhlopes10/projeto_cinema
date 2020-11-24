@@ -1,3 +1,5 @@
+// Vitor Hugo Morais Lopes da Silva - 201802380485
+
 package repository;
 
 import database.Conexao;
@@ -7,11 +9,9 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import javax.swing.JOptionPane;
-import model.Cinema;
 import model.Filme;
 import model.Indicacao;
 import model.IndicacaoFilme;
-import model.Sala;
 
 public class IndicacaoFilmeRepository {
 

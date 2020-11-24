@@ -1,13 +1,8 @@
+// Vitor Hugo Morais Lopes da Silva - 201802380485
+
 package model;
 
-import database.Conexao;
-import java.sql.Connection;
 import java.sql.Date;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.util.ArrayList;
-import javax.swing.JOptionPane;
 
 public class Funcionario {
 

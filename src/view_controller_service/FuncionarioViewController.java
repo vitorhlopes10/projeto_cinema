@@ -1,3 +1,5 @@
+// Vitor Hugo Morais Lopes da Silva - 201802380485
+
 package view_controller_service;
 
 import model.Funcionario;
@@ -5,7 +7,6 @@ import java.sql.SQLException;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;

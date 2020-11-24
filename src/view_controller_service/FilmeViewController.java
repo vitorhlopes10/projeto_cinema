@@ -1,3 +1,5 @@
+// Vitor Hugo Morais Lopes da Silva - 201802380485
+
 package view_controller_service;
 
 import model.Classificacao;
@@ -5,9 +7,6 @@ import model.Filme;
 import model.Genero;
 import model.Premiacao;
 
-import java.awt.AWTEventMulticaster;
-import java.awt.event.ItemEvent;
-import java.awt.event.ItemListener;
 import java.sql.SQLException;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
@@ -15,7 +14,6 @@ import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
-import javax.swing.plaf.basic.BasicComboBoxUI;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableRowSorter;
 import repository.ClassificacaoRepository;

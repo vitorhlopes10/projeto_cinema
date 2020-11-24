@@ -1,13 +1,7 @@
-package model;
+// Vitor Hugo Morais Lopes da Silva - 201802380485
 
-import database.Conexao;
-import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.util.ArrayList;
-import javax.swing.JOptionPane;
-
+package model;     
+        
 public class Indicacao {
 
     private int id;

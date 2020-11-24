@@ -1,3 +1,5 @@
+// Vitor Hugo Morais Lopes da Silva - 201802380485
+
 package view_controller_service;
 
 import model.Sala;
@@ -6,7 +8,6 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import javax.swing.JComboBox;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableRowSorter;

@@ -1,3 +1,5 @@
+// Vitor Hugo Morais Lopes da Silva - 201802380485
+
 package repository;
 
 import database.Conexao;
@@ -10,7 +12,6 @@ import javax.swing.JOptionPane;
 import model.Classificacao;
 import model.Filme;
 import model.Genero;
-import model.Premiacao;
 
 public class FilmeRepository {
 
